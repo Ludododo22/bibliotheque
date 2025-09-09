@@ -103,5 +103,5 @@ try {
     $_SESSION['flash'] = "Erreur lors de l'enregistrement : " . $e->getMessage();
 }
 
-header("Location: manage.php");
+header("Location: gerer.php");
 exit;
