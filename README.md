@@ -60,34 +60,14 @@ Accéder au site : http://localhost/bibliotheque
 
 index.php → Accueil (recherche + nouveautés)
 
-results.php → Résultats de recherche
+resultats.php → Résultats de recherche
 
 details.php → Détails d’un livre + ajout liste
 
-wishlist.php → Liste de lecture
+favoris.php → Liste de lecture
 
-manage.php → Interface admin (CRUD des livres)
+gerer.php → Interface admin (CRUD des livres)
 
-📂 Structure du projet
-bibliotheque/
-│── index.php
-│── results.php
-│── details.php
-│── wishlist.php
-│── manage.php
-│── book_form.php
-│── save_book.php
-│── delete_book.php
-│── add_to_wishlist.php
-│── remove_from_wishlist.php
-│── config.php
-│── bibliotheque.sql
-│── header.php
-│── footer.php
-│── assets/
-│   ├── styles.css
-│   └── script.js
-│── uploads/   # Images uploadées
 
 🔮 Améliorations possibles
 
